@@ -1,2 +1,2 @@
 # waterjug.py
-water jug problem
+waterjug problem program using the python language 
